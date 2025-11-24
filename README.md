@@ -97,31 +97,7 @@ Website trao đổi/thảo luận/review về các bộ phim là một nền t�
 - **Sidebar**: Categories, filters
 - **Main Content**: Movie cards, reviews, discussions
 - **Footer**: Links, info
-
-## Cấu Trúc Dự Án
-
-```
-movie-review/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── config/
-│   └── database.php
-├── includes/
-│   ├── header.php
-│   ├── footer.php
-│   └── sidebar.php
-├── pages/
-│   ├── home.php
-│   ├── movie-detail.php
-│   ├── review.php
-│   └── discussion.php
-├── admin/
-├── uploads/
-└── index.php
-```
-
+- 
 ## Kế Hoạch Phát Triển
 
 ### Phase 1: Cơ Bản
