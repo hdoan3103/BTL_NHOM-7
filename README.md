@@ -1,30 +1,30 @@
-# 🎬 Website Trao Đổi & Review Phim
+# Website Trao Đổi & Review Phim
 
-## 📋 Tổng Quan Dự Án
+## Tổng Quan Dự Án
 
 Website trao đổi/thảo luận/review về các bộ phim là một nền tảng trực tuyến cho phép người dùng chia sẻ, thảo luận và đánh giá các bộ phim yêu thích. Dự án được xây dựng với mục tiêu tạo ra một cộng đồng yêu phim năng động và tương tác.
 
-## 🎯 Mục Tiêu Dự Án
+## Mục Tiêu Dự Án
 
 - Tạo ra một nền tảng để người yêu phim có thể chia sẻ cảm nhận và đánh giá
 - Xây dựng cộng đồng thảo luận sôi nổi về các bộ phim
 - Cung cấp thông tin chi tiết về các bộ phim
 - Hỗ trợ người dùng tìm kiếm và khám phá phim mới
 
-## 💡 Ý Tưởng Chính
+## Ý Tưởng Chính
 
-### 🌟 Chức Năng Cốt Lõi
+### Chức Năng Cốt Lõi
 1. **Đăng Bài Thông Tin Phim**: Người dùng có thể chia sẻ thông tin về các bộ phim
 2. **Review & Đánh Giá**: Viết nhận xét và cho điểm các bộ phim
 3. **Thảo Luận Cộng Đồng**: Trao đổi ý kiến về phim trong các topic thảo luận
 4. **Tìm Kiếm & Lọc**: Dễ dàng tìm kiếm phim theo nhiều tiêu chí
 
-### 🎨 Thiết Kế Giao Diện
+### Thiết Kế Giao Diện
 - **Dark Mode**: Giao diện tối hiện đại, thân thiện với mắt
 - **Responsive**: Tương thích mọi thiết bị
 - **User-Friendly**: Dễ sử dụng và trực quan
 
-## 🛠️ Công Nghệ Sử Dụng
+## Công Nghệ Sử Dụng
 
 ### Backend
 - **PHP**: Ngôn ngữ lập trình chính cho server-side
@@ -40,9 +40,9 @@ Website trao đổi/thảo luận/review về các bộ phim là một nền t�
 - **Apache**: Web server
 - **phpMyAdmin**: Quản lý cơ sở dữ liệu
 
-## 📊 Phân Tích Yêu Cầu
+## Phân Tích Yêu Cầu
 
-### 🔧 Chức Năng Chính
+### Chức Năng Chính
 
 #### 1. Quản Lý Người Dùng
 - Đăng ký/Đăng nhập
@@ -73,7 +73,7 @@ Website trao đổi/thảo luận/review về các bộ phim là một nền t�
 - Sắp xếp theo rating
 - Gợi ý phim tương tự
 
-### 🗄️ Thiết Kế Cơ Sở Dữ Liệu
+### Thiết Kế Cơ Sở Dữ Liệu
 
 #### Bảng Chính
 - **users**: Thông tin người dùng
@@ -84,7 +84,7 @@ Website trao đổi/thảo luận/review về các bộ phim là một nền t�
 - **genres**: Thể loại phim
 - **ratings**: Điểm đánh giá
 
-## 🎨 Thiết Kế UI/UX
+## Thiết Kế UI/UX
 
 ### Dark Mode Theme
 - Màu nền tối (#1a1a1a, #2d2d2d)
@@ -98,7 +98,7 @@ Website trao đổi/thảo luận/review về các bộ phim là một nền t�
 - **Main Content**: Movie cards, reviews, discussions
 - **Footer**: Links, info
 
-## 📁 Cấu Trúc Dự Án
+## Cấu Trúc Dự Án
 
 ```
 movie-review/
@@ -122,7 +122,7 @@ movie-review/
 └── index.php
 ```
 
-## 🚀 Kế Hoạch Phát Triển
+## Kế Hoạch Phát Triển
 
 ### Phase 1: Cơ Bản
 - [ ] Setup environment
@@ -146,14 +146,14 @@ movie-review/
 - [ ] Documentation
 - [ ] Deployment
 
-## 👥 Đối Tượng Người Dùng
+## Đối Tượng Người Dùng
 
 - **Người yêu phim**: Muốn chia sẻ cảm nhận về phim
 - **Critic nghiệp dư**: Viết review chuyên sâu
 - **Người tìm phim**: Tham khảo ý kiến trước khi xem
 - **Cộng đồng**: Thảo luận và tranh luận về phim
 
-## 📈 Tiềm Năng Mở Rộng
+## Tiềm Năng Mở Rộng
 
 - Tích hợp API phim (TMDB, IMDB)
 - Mobile app
@@ -161,7 +161,7 @@ movie-review/
 - Social features nâng cao
 - Monetization (ads, premium)
 
-## 🔒 Bảo Mật
+## Bảo Mật
 
 - Validation input
 - SQL injection prevention
@@ -169,14 +169,14 @@ movie-review/
 - Session management
 - Password hashing
 
-## 📱 Responsive Design
+## Responsive Design
 
 - Mobile-first approach
 - Tablet optimization
 - Desktop enhancement
 - Cross-browser compatibility
 
-## 🔗 URL Routing System
+## URL Routing System
 
 ### URL Patterns được hỗ trợ:
 
